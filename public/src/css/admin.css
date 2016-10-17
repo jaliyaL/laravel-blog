@@ -1,0 +1,28 @@
+/***
+Bootstrap Line Tabs by @keenthemes
+A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: http://j.mp/metronictheme
+Licensed under MIT
+***/
+
+.content {
+	padding: 30px;
+	background: #f1f3fa;
+}
+
+.margin-bottom-30 {
+	margin-bottom: 30px;
+}
+
+/* Portlet */
+.portlet {
+	background: #fff;
+	padding: 20px;
+}
+
+.portlet.portlet-gray {
+	background: #f7f7f7;
+}
+
+.portlet.portlet-bordered {
+	border: 1px solid #eee;
+}
